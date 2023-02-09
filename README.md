@@ -1,14 +1,16 @@
 ### Hi there 👋 from Craig!
 
-### Frame works
+### Languages & Frameworks
+- Pyhton
+- Rust
+- VB.NET
+- VBA
+
+### Tools and Environments
+- Visual Studio 
 - Visual Studio code
 - Pycharm
 - Jupiter Notebooks
 - Docker
 - Flask
-
-### Languages & Frameworks
-- @Pyhton
-- Rust
-- VB.NET
 
