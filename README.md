@@ -1,6 +1,6 @@
 ### Hi there 👋 from Craig!
 
-### Languages & Frameworks
+### Languages
 - Pyhton
 - Rust
 - VB.NET
