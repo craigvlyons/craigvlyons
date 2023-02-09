@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### Frame works
+- Visual Studio code
+- Pycharm
+- Jupiter Notebooks
+- Docker
+- Flask
+
+### Languages
+- Pyhton
+- Rust
+- VB.NET
+
 <!--
 **craigvlyons/craigvlyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
