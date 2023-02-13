@@ -1,4 +1,5 @@
 ### Hi there 👋 from Craig!
+I'm a Mechanical designer / Software Developer.
 
 ### Languages
 - Pyhton
