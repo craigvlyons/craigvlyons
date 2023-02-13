@@ -5,6 +5,8 @@
 - Rust
 - VB.NET
 - VBA
+- HTML
+- CSS
 
 ### Tools and Environments
 - Visual Studio 
