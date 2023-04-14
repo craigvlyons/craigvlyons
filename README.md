@@ -2,6 +2,7 @@
 I'm a Mechanical designer / Software Developer.
 
 ### Languages
+- C#
 - Pyhton
 - Rust
 - VB.NET
@@ -16,5 +17,5 @@ I'm a Mechanical designer / Software Developer.
 - Jupiter Notebooks
 - Docker
 - Flask
-
+- Insomnia
 
